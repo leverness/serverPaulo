@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "6a42d8e2273333098dd0cf391f9fe25b"
+	name: "Paulinos#6a42d8e2"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

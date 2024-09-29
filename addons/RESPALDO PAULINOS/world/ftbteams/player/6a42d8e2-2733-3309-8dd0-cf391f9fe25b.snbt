@@ -1,0 +1,17 @@
+{
+	id: "6a42d8e2-2733-3309-8dd0-cf391f9fe25b"
+	type: "player"
+	player_name: "Paulinos"
+	ranks: {
+		6a42d8e2-2733-3309-8dd0-cf391f9fe25b: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Paulinos"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF6059"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
